@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/NanosystemsLab/NanosystemsLogo.png
 title: "TinyML Keyword Spotting Model deployed onto Arduino Nano"
-date: 2024
+date: "Sept. 2022 – Dec. 2023"
 published: true
 labels:
   - Python
