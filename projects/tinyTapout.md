@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: img/Team_RoSE.png
-title: "Team RoSE"
-date: 2025
+image: img/tinyTapeoutLogo.png
+title: "TinyTapeout - Decimation Filte"
+date: 2024
 published: true
 labels:
   - Robotics
