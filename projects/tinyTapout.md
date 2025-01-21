@@ -14,17 +14,17 @@ labels:
 summary: "Team RoSE leverages robotic technologies in autonomy, mobility, manipulation, and life detection to support space exploration and scientific endeavors."
 ---
 
-**Motivation**
-The rapid advancement of digital signal processing requires efficient and reliable ways of converting analog signals into high-quality digital data. Decimation filters, are essential for down sampling signals while maintaining their integrity and are crucial in analog-to-digital converters (ADCs).
+**Motivation**   
+The rapid advancement of digital signal processing requires efficient and reliable ways of converting analog signals into high-quality digital data. Decimation filters, are essential for down sampling signals while maintaining their integrity and are crucial in analog-to-digital converters (ADCs).   
 
-**Objective**
+**Objective**   
 Design a decimation filter for the ADC designed in ECE 628 utilizing incremental Delta-Sigma modulation. Utilizing Tiny Tapeout platform for tapeout make the manufacturing process cost-effective and accessible.
 
-**Design Execution and Testing**
-Incremental ΔΣ Modulation ADC: 
-Utilizes two integrators (accumulators), with its output synchronized to a reset signal to align with the incremental ADC’s operation.
+**Design Execution and Testing**   
+<ins>Incremental ΔΣ Modulation ADC:</ins>    
+Utilizes two integrators (accumulators), with its output synchronized to a reset signal to align with the incremental ADC’s operation.   
 
-Free-running ΔΣ Modulation ADC: 
+<ins>Free-running ΔΣ Modulation ADC: </ins>   
 Utilizes a cascade-integrator comb (CIC) filter, consisting of two integrator parts (accumulators) and two comb parts (differentiators). The integrators’ output is passed through a comb filter, where the output is calculated as the difference between the delayed and current values.
 
 **Final Design**
