@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/tinyTapeoutLogo.png
+image: img/tinyML/tinyMLLogo.jpg
 title: "TinyML Keyword Spotting Model deployed onto Arduino Nano"
 date: 2024
 published: true
