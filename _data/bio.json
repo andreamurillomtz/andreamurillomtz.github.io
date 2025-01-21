@@ -1,43 +1,43 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Andrea Murillo Martinez",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "picture": "https://github.com/andreamurillomtz.png",
+    "email": "andreamu@hawaii.edu",
+    "phone": "857-3707-065",
+    "website": "https://andreamurillomtz.github.io",
+    "summary": "I am studying for a B.S. in Electrical Engineering in the Electrophysiscs Track at the University of Hawaii. I expect to graduate in Spring, 2026.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "andreamurillomtz", "url": "http://github.com/andreamurillomtz" },
+      { "network": "linkedin", "username": "Andrea Murillo Martinez", "url": "https://www.linkedin.com/in/amuma/" },
+      { "network": "discord", "username": ".andreamu", "url": "http://discord.com/.andreamu" },
+      { "network": "instagram", "username": "andreamurillomtz", "url": "https://www.instagram.com/andrea_murillomtz/" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Mixed-signal systems" },
+    { "name": "Analog and digital circuit design" },
+    { "name": "Embedded systems" },
+    { "name": "Machine learning" },
+    { "name": "System automation" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": ["Python", "C", "C++", "Verilog", "JavaScript", "HTML/CSS" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub"]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
+      "area": "Engineering (expected Spring, 2026)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2022-08-19",
       "endDate": "Present",
       "courses": [
       ]
@@ -45,31 +45,33 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "UH College of Enigneering",
+      "position": "Lab Monitor",
+      "website": "https://www.youtube.com/watch?v=Iy-yWE2cuiU",
+      "startDate": "2022-12-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Monitor and facilitate lab equipment to students ",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Supervise and help students use 3D printers, SolidWorks, laser cut machine, soldering, etc.",
+        "Maintenance and troubleshooting of labware.", "Create video tutorials for lab equipment."
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "SiTime",
+      "position": "MEMS Foundry Engineering Intern",
+      "website": "https://www.sitime.com",
+      "startDate": "2024-07-01",
+      "endDate": "2024-08-15",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Developed a python app for a seamless integration between Data Drive, SQL databases, and FTP servers, reducing manual effort and increasing data accuracy.
+",
+        "Automated wafer pickmap retrieval and transfer by navigating Data Drive directories and efficiently uploading files to OSAT FTP servers or local storage, streamlining data management workflows.
+", "Enhanced operational productivity by implementing new features such as error-handling mechanisms, data validation processes, and optimized file transfer protocols, reducing production time and minimizing human error."
       ]
     }
   ],
-  "volunteer": [
+  "projects": [
     {
       "organization": "Center for Renewable Energy and Island Sustainability",
       "website": "http://manoa.hawaii.edu/reis",
