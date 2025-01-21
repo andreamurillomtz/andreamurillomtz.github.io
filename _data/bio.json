@@ -46,13 +46,13 @@
     {
       "company": "UH College of Enigneering",
       "position": "Lab Monitor",
-      "website": "[YouTube Channel](https://www.youtube.com/watch?v=Iy-yWE2cuiU)",
+      "website": "https://www.eng.hawaii.edu/fablab/",
       "startDate": "2022-12-01",
       "endDate": "Present",
       "summary": "Monitor and facilitate lab equipment to students ",
       "highlights": [
         "Supervise and help students use 3D printers, SolidWorks, laser cut machine, soldering, etc.",
-        "Maintenance and troubleshooting of labware.", "Create video tutorials for lab equipment."
+        "Maintenance and troubleshooting of labware.", "Create video tutorials for lab equipment. [Youtube channel](www.youtube.com/watch?v=Iy-yWE2cuiU)"
       ]
     },
     {
