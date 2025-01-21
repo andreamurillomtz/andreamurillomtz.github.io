@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/tinyML/tinyMLLogo.jpg
 title: "TinyML Keyword Spotting Model deployed onto Arduino Nano"
-date: 2024
+date: "Jan. 2024 – May 2024"
 published: true
 labels:
   - Machine Learning
