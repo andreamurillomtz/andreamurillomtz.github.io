@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/tinyTapeoutLogo.png
+image: img/tinyTapeout/tinyTapeoutLogo.png
 title: "TinyTapeout - Decimation Filter"
 date: 2024
 published: true
@@ -42,7 +42,7 @@ Ensuring documentation and design variables are correctly implemented to have a 
 
 Design was successfully submitted to the [Tiny Tapeout TT09](https://tinytapeout.com/runs/tt09/tt_um_murmann_group) run.
 
-<img width="200px" src="../img/DF_both_waveform.png" class="img-thumbnail" >
+<img width="200px" src="../img/tinyTapeout/DF_both_waveform.png" class="img-thumbnail" >
 
 Learn more about [Tiny Tapeout]([https://manoa.hawaii.edu/news/article.php?aId=2857](https://tinytapeout.com)).
 
