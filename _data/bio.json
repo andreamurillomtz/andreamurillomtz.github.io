@@ -11,7 +11,6 @@
     "profiles": [
       { "network": "github", "username": "andreamurillomtz", "url": "http://github.com/andreamurillomtz" },
       { "network": "linkedin", "username": "Andrea Murillo Martinez", "url": "https://www.linkedin.com/in/amuma/" },
-      { "network": "discord", "username": ".andreamu", "url": "http://discord.com/.andreamu" },
       { "network": "instagram", "username": "andreamurillomtz", "url": "https://www.instagram.com/andrea_murillomtz/" }
     ]
   },
