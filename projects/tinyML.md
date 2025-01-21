@@ -26,3 +26,5 @@ Deployed a keyword spotting machine learning model onto an Arduino Nano 33, opti
 memory usage for real-time inference in resource-constrained environments.
 
 <img width="200px" src="../img/tinyML/arduinoNano.png" class="img-thumbnail" >
+
+[Finished Project Demo](https://youtube.com/shorts/W4ZFZW9YG8c?feature=share)
