@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/tinyTapeout/tinyTapeoutLogo.png
 title: "TinyTapeout - Decimation Filter"
-date: 2024
+date: "Aug. 2024 – Current"
 published: true
 labels:
   - TinyTapeout
