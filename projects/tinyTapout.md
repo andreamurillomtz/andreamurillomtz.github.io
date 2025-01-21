@@ -42,7 +42,12 @@ Using OSS CAD Suite, binary software distribution for several open-source softwa
 Ensuring documentation and design variables are correctly implemented to have a successful submission to Tiny Tapeout.
 
 
-Design was successfully submitted to the Tiny Tapeout TT09 run. Design location on chip shown in blue in Fig. 5.  
+Design was successfully submitted to the [Tiny Tapeout TT09](https://tinytapeout.com/runs/tt09/tt_um_murmann_group) run.
+
+<img width="200px" src="../img/tinyTapeout/DF_both_waveform.png" class="img-thumbnail" >
+
+Learn more about [Tiny Tapeout]([https://manoa.hawaii.edu/news/article.php?aId=2857](https://tinytapeout.com)).
+
 
 
 
