@@ -32,7 +32,7 @@ Cells: 772 (excluding decoupling capacitors and filler cells)
 Flip-flops: 89   
 Tiles: 1x1   
 
-**Challenges**
+**Challenges**   
 Making design synthesizable for ASIC implementation.   
      - Ensuring all variables were set to zero at the beginning of simulation (initial blocks are non-synthesizable)   
 Using OSS CAD Suite, binary software distribution for several open-source software used in digital logic design.   
