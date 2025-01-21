@@ -27,19 +27,17 @@ Utilizes two integrators (accumulators), with its output synchronized to a reset
 <ins>Free-running ΔΣ Modulation ADC: </ins>   
 Utilizes a cascade-integrator comb (CIC) filter, consisting of two integrator parts (accumulators) and two comb parts (differentiators). The integrators’ output is passed through a comb filter, where the output is calculated as the difference between the delayed and current values.
 
-**Final Design**
-Cells: 772 (excluding decoupling capacitors and filler cells)
-Flip-flops: 89
-Tiles: 1x1
+**Final Design**   
+Cells: 772 (excluding decoupling capacitors and filler cells)   
+Flip-flops: 89   
+Tiles: 1x1   
 
 **Challenges**
-Making design synthesizable for ASIC implementation.
-     - Ensuring all variables were set to zero at the beginning of simulation
-       (initial blocks are non-synthesizable)
-Using OSS CAD Suite, binary software distribution for several open-source software used in digital logic design.
-     - Local hardening dependency errors when running tools for RTL
-       synthesis
-Ensuring documentation and design variables are correctly implemented to have a successful submission to Tiny Tapeout.
+Making design synthesizable for ASIC implementation.   
+     - Ensuring all variables were set to zero at the beginning of simulation (initial blocks are non-synthesizable)   
+Using OSS CAD Suite, binary software distribution for several open-source software used in digital logic design.   
+     - Local hardening dependency errors when running tools for RTL synthesis   
+Ensuring documentation and design variables are correctly implemented to have a successful submission to Tiny Tapeout.   
 
 
 Design was successfully submitted to the [Tiny Tapeout TT09](https://tinytapeout.com/runs/tt09/tt_um_murmann_group) run.
