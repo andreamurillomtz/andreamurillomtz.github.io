@@ -65,7 +65,7 @@
       "website": "https://www.sitime.com",
       "startDate": "2024-07-01",
       "endDate": "2024-08-15",
-      "summary": "Intern in Santa Clara working with the Operations Team",
+      "summary": "Intern in Silicon Valley working with the Operations Team at SiTime",
       "highlights": [
         "Developed a python app for a seamless integration between Data Drive, SQL databases, and FTP servers, reducing manual effort and increasing data accuracy.","Automated wafer pickmap retrieval and transfer by navigating Data Drive directories and efficiently uploading files to OSAT FTP servers or local storage, streamlining data management workflows.","Enhanced operational productivity by implementing new features such as error-handling mechanisms, data validation processes, and optimized file transfer protocols, reducing production time and minimizing human error."
       ]
