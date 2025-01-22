@@ -29,6 +29,10 @@
     {
       "name": "Toolsets/OS",
       "keywords": [ "MacOS", "Ubuntu", "Git/GitHub"]
+    },
+    {
+      "name": "Spoken Languages",
+      "keywords": [ "Spanish: fluent", "English: fluent", "French: intermediate"]
     }
   ],
   "education": [
@@ -61,9 +65,20 @@
       "website": "https://www.sitime.com",
       "startDate": "2024-07-01",
       "endDate": "2024-08-15",
-      "summary": "",
+      "summary": "Intern in Santa Clara working with the Operations Team",
       "highlights": [
         "Developed a python app for a seamless integration between Data Drive, SQL databases, and FTP servers, reducing manual effort and increasing data accuracy.","Automated wafer pickmap retrieval and transfer by navigating Data Drive directories and efficiently uploading files to OSAT FTP servers or local storage, streamlining data management workflows.","Enhanced operational productivity by implementing new features such as error-handling mechanisms, data validation processes, and optimized file transfer protocols, reducing production time and minimizing human error."
+      ]
+    },
+    {
+      "company": "Engineering Council at the University of Hawaii at Manoa",
+      "position": "Vice-president of IT",
+      "website": "https://ecuh.org",
+      "startDate": "2024-01-01",
+      "endDate": "Current",
+      "summary": "ECUH is an organization composed of engineering students whose main purpose is to represent the students of the College of Engineering",
+      "highlights": [
+        "Help organize events for the College of Engineering and manage website for students to find new student groups.","Attend regional conference with other councils and talk about new improvements."
       ]
     }
   ],
