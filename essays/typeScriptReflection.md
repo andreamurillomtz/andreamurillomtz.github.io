@@ -12,10 +12,11 @@ labels:
   - Typescript
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/essays/paintbrushes.jpg">
+<img width="100px" class="rounded float-start pe-4" src="../img/essayTypescript/typescript.jpg">
 
-Ever since I first grasped a paintbrush, I’ve always been eager to learn about design. Design is such a complex concept. For example, when looking at abstract art, its meaning can be completely different for different people. It motivates a person to think thoughtfully and has the potential to submerge them in a sea of imagination. It’s that special relationship between the viewer and the art that makes something as technical as software engineering interesting to me.
+So. What do you think about Typescript so far? If you’re a complete newbie, how does it compare to other programming languages that you know? If you have prior experience, did you learn new things from this module, perhaps with respect to ES6? Do you think Typescript is a good or bad programming language from a software engineering perspective?
 
-I never used to think that design and technology went hand in hand.  Thus, learning about software engineering and the role of design has been incredibly interesting to me. Design, implementation, and management are just some of the many things I wish to learn more about. Good art, in a way, makes a person question it. They become joined in the idea of visualization – where captivation meets inspiration.
+What about athletic software engineering? Did you find the practice WODs to be useful? What do you think about this style of learning? Is it stressful? Is it enjoyable? Do you think it will work for you?
 
-I am now starting to take a Software Engineering class. I hope to learn a lot through the course, but I know it will be just the beginning of my journey. By the time I’m done with it, I hope I’ve learned enough to take the next step in my life as a developer. But until then, my fire will keep on burning.
+My first exposure to Javascript and Typescript was 1 week ago. I have learned a couple othe languages such as Python, C, and C++. During the javascript and typescript modules I leared that the syntax is very similar to C which makes it easy to write. I think Typescript compared to Javascript is a good langauge since it is easier to follow when declaring because you specify the types. We haven't had the chance to use Javascript to use for designing a website but i think it will be very useful to understand how it works.
+
