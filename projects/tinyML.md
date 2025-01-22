@@ -37,20 +37,9 @@ Firmware runs on the microcontroller while the daemon runs on your computer as s
 6. Live classifications with a smartphone   
 7. Keyword spotting on the Arduino Nano   
 
-**Demo**   
-<div class="text-center p-4">
-  <iframe 
-    src="https://youtube.com/shorts/W4ZFZW9YG8c?feature=share" 
-    width="560" 
-    height="315" 
-    frameborder="0" 
-    allow="autoplay; encrypted-media; picture-in-picture" 
-    allowfullscreen>
-  </iframe>
-</div>
-
-**Additional**   
-Contributor in "Machine Learning Systems for Tiny ML"   
+[**Demo**](https://youtube.com/shorts/W4ZFZW9YG8c?feature=share)
+ 
+**Contributor in "Machine Learning Systems for Tiny ML"**    
 Collaborated on an open-source book by providing valuable chapter feedback to authors and incorporating additional information to enhance user comprehension.   
 
 [Online Book](https://harvard-edge.github.io/cs249r_book/)
