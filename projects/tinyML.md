@@ -15,12 +15,12 @@ labels:
   - Arduino Nano Microcontroller
 summary: "nck"
 ---
-**Summary**   
+**Porject Summary**   
 Implemented machine learning models on resource-constrained platforms such as Arduino Nano 33 microcontrollers, utilizing TensorFlow and TensorFlow Lite for model development. Leveraged Google
 Colab for training and optimization processes.      
 <img width="200px" src="../img/tinyML/arduinoNano.png" class="img-thumbnail" >   
 
-**Description**   
+**Project Description**   
 Develop an end-to-end (E2E) KWS application with Edge Impulse to voice control a light-emitting diode (LED) that emits a colored light (red, green, or blue) a certain amount of times (one, two, or three blinks) on the Arduino Nano.   
 
 Began with dataset preparation, acquiring audio data with a mobile phone and the built-in microphone on the Arduino Nano. Then, we designed a model for speech recognition based on the popular Mel-filterbank energy (MFE) features. Ectracted these features from audio samples, train a machine learning (ML) model, and fine-tune model’s performance with the Edge Impulse EON Tuner. Finally, deployed the KWS application on the Arduino Nano.   
@@ -48,3 +48,11 @@ Firmware runs on the microcontroller while the daemon runs on your computer as s
     allowfullscreen>
   </iframe>
 </div>
+
+**Additional**   
+Contributor in "Machine Learning Systems for Tiny ML"   
+Collaborated on an open-source book by providing valuable chapter feedback to authors and incorporating additional information to enhance user comprehension.   
+
+[Online Book](https://harvard-edge.github.io/cs249r_book/)
+
+
