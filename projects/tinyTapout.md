@@ -27,6 +27,9 @@ Utilizes two integrators (accumulators), with its output synchronized to a reset
 <ins>Free-running ΔΣ Modulation ADC: </ins>   
 Utilizes a cascade-integrator comb (CIC) filter, consisting of two integrator parts (accumulators) and two comb parts (differentiators). The integrators’ output is passed through a comb filter, where the output is calculated as the difference between the delayed and current values.
 
+Test Waveforms:
+<img width="600px" src="../img/tinyTapeout/DF_both_waveform.png" class="img-thumbnail" >
+
 **Final Design**   
 Cells: 772 (excluding decoupling capacitors and filler cells)   
 Flip-flops: 89   
@@ -40,11 +43,13 @@ Using OSS CAD Suite, binary software distribution for several open-source softwa
 Ensuring documentation and design variables are correctly implemented to have a successful submission to Tiny Tapeout.   
 
 
-Design was successfully submitted to the [Tiny Tapeout TT09](https://tinytapeout.com/runs/tt09/tt_um_murmann_group) run.
+Design was successfully submitted to the [Tiny Tapeout TT09](https://tinytapeout.com/runs/tt09/tt_um_murmann_group) run.   
 
-<img width="600px" src="../img/tinyTapeout/DF_both_waveform.png" class="img-thumbnail" >
+[Project Paper](https://drive.google.com/file/d/1lCJho3t-qCo3s_KBTvhVVHc4IqbTPjkO/view?usp=sharing)   
 
-Learn more about [Tiny Tapeout]([https://manoa.hawaii.edu/news/article.php?aId=2857](https://tinytapeout.com)).
+[Presented Poster](https://drive.google.com/file/d/1AkI8BOXcA7IImJKFq9h9wx_isaMM_AbH/view?usp=sharing)   
+
+Learn more about [Tiny Tapeout]([https://manoa.hawaii.edu/news/article.php?aId=2857](https://tinytapeout.com)).   
 
 
 
