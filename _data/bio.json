@@ -80,52 +80,50 @@
       "highlights": [
         "Help organize events for the College of Engineering and manage website for students to find new student groups.","Attend regional conference with other councils and talk about new improvements."
       ]
+    },
+    {
+      "company": "Pacific Asian Center of Entrepeneurship",
+      "position": "PACE Leader - Calvin Shindo Student Venture Fund",
+      "website": "https://pace.shidler.hawaii.edu/venture-fund/",
+      "startDate": "2024-08-01",
+      "endDate": "Current",
+      "summary": "Work with a team for due diligence of startup companies withing the University",
+      "highlights": [
+        "Collaborated with a cross-functional team to evaluate early-stage startups, conducting due diligence to assess product viability, technical innovation, and market potential.","Gained experience in venture capital processes, including financial modeling, market research, and investment strategy, while developing a deeper understanding of the tech startup ecosystem."
+      ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Tecnológioc de Monterrey",
+      "website": "https://tec.mx/en",
+      "position": "English Teacher at Languagers",
+      "startDate": "2020-04-01",
+      "endDate": "2021-06-01",
+      "summary": "Teach English to elementary and middle school kids.",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Create study plan for students to learn english",
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Honolulu Tech Week Hackathlon",
+      "date": "2024",
+      "awarder": "Honolulu Tech Week",
+      "summary": "Created MopedSafe, an app for making sure moped is not stolen. Used an Arduino Nano microcontroller for detecting movement on the moped. Won 2 awards wiht a total value of $2000: Peoples Choice Award, Best Hardware Project."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
-  ],
-  "references": [
+      "title": "Dean's List",
+      "date": "2022-Present",
+      "awarder": "College of Engineering",
+      "summary": "Scholarships awarded to those students who maintain at least a 3.5 GPA"
+    },
     {
-      "name": "Available upon request"
+      "title": "Breakthrough Innovation Challenge",
+      "date": "2022",
+      "awarder": "Shidler School of Business",
+      "summary": "Pitched a business idea for $1000 funding."
     }
   ]
 }
