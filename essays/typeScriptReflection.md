@@ -12,7 +12,7 @@ labels:
   - Typescript
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/essayTypescript/typescript.jpg">
+<img width="300px" class="rounded float-start pe-4" src="../img/essayTypescript/typescript.jpg">
 
 So. What do you think about Typescript so far? If you’re a complete newbie, how does it compare to other programming languages that you know? If you have prior experience, did you learn new things from this module, perhaps with respect to ES6? Do you think Typescript is a good or bad programming language from a software engineering perspective?
 
