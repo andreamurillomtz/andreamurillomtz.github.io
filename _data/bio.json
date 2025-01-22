@@ -108,7 +108,7 @@
   ],
   "awards": [
     {
-      "title": "Honolulu Tech Week Hackathlon",
+      "title": "Honolulu Tech Week Hackathon",
       "date": "2024",
       "awarder": "Honolulu Tech Week",
       "summary": "Created MopedSafe, an app for making sure moped is not stolen. Used an Arduino Nano microcontroller for detecting movement on the moped. Won 2 awards wiht a total value of $2000: Peoples Choice Award, Best Hardware Project."
