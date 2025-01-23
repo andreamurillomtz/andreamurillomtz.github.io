@@ -11,7 +11,7 @@ labels:
   - Verilog
   - Github
   - Tapeout
-summary: "Team RoSE leverages robotic technologies in autonomy, mobility, manipulation, and life detection to support space exploration and scientific endeavors."
+summary: "Tiny Tapeout is a platform that allows users to design and manufacture custom semiconductor chips making it easier and cheaper. This project involved designing and taping out a decimation filter"
 ---
 
 **Motivation**   
