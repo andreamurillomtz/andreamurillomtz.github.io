@@ -27,4 +27,6 @@ Working under pressure has never been something I am good at. Personally, I work
 Combining my recent introduction to JavaScript and TypeScript with my personal approach to learning, I’ve noticed that both programming and athletics share similarities in developing a skill. Just like in sports, where repetition and understanding of fundamentals make you have better performance, mastering programming requires practice and patience. Although I find programming enjoyable, I’m still adapting to time-constrained challenges, a lot like adapting to competitive pressure in athletics. The structured nature of TypeScript is able to give me a way for problem solving (mainly in algorithms). While the time pressure of WODs feels daunting, I see them as an opportunity to strengthen my ability to perform under pressure, a skill I’ve worked on in sports but still working on in programming.
 <br>
 <br>
+<br>
+<br>
 *Resources: ChatGPT for grammar checking.*
