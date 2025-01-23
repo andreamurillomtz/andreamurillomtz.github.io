@@ -25,3 +25,8 @@ Recently, I’ve been working on a personal project where I developed an iOS app
 <h3>Future</h3>   
 <img width="100px" class="rounded float-start pe-4" src="../img/essayPortafolio/futureIcon.png">
 Looking ahead, I’m eager to explore more programming languages that I’m not yet familiar with and apply them to practical projects. During the ICS 311 class, I hope to learn how to develop a fully functional web app and make it easy to update. My goal is to design it in a way that ensures future maintainability, so an outsider can easily understand the source code and make updates as needed. One of my long-term aspirations is to become proficient at quickly picking up new programming languages by simply reviewing their documentation.   
+<br>
+<br>
+<br>
+<br>
+*Resources: ChatGPT for grammar checking.*
