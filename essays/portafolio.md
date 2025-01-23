@@ -11,7 +11,6 @@ labels:
   - Past
   - Future
 ---
- that discusses your interests in software engineering and what kinds of skills and experiences you hope to develop in future.
 
 <h4>Past</h4>   
 <img width="200px" class="rounded float-start pe-4" src="../img/essayPortafolio/pastIcon.png">  
