@@ -13,7 +13,7 @@ labels:
   - Google Colab
   - Edge Impulse
   - Arduino Nano Microcontroller
-summary: "nck"
+summary: "Tiny machine learning (tinyML) is a subset of machine learning focused on the deployment of models to microcontrollers and other low-power edge devices. This project involved deploying a keyword spotting ML model onto an Arduino Nano microcontroller."
 ---
 **Porject Summary**   
 Implemented machine learning models on resource-constrained platforms such as Arduino Nano 33 microcontrollers, utilizing TensorFlow and TensorFlow Lite for model development. Leveraged Google
