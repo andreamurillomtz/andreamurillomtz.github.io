@@ -7,19 +7,22 @@ date: 2025-01-23
 published: true
 labels:
   - Software Engineering
-  - Dante's Inferno
-  - 
+  - Present
+  - Past
+  - Future
 ---
  that discusses your interests in software engineering and what kinds of skills and experiences you hope to develop in future.
 
 <h4>Past</h4>   
 <img width="300px" class="rounded float-start pe-4" src="../img/essayPortafolio/pastIcon.png">  
-Starting of as a Mechanical Engineering student I discovered my passion for software while working on a research for system automation. I was working mainly with pythona and C which at that time were new to me. I realized that I enjoyed programming a lot more which made me transfer to Computer Engieneering. I have learned so much about differnt types of software in class and out of class. At the beginnng I was very interested in system automation since it was useful and satisfying. Got familiar with markup languages liek HTML and CSS for creating dashboards. I really enjoyed making then but knew that wasn't my cup of tea. My transition then switch to Machine Learning particulatly in TinyML. Machine Learning is something that fascinates me and I'm curious about. I am not only curious on the different model algorithms but also in optimizaiton ways for the models to be deployed onto embedded systems.
+Starting off as a Mechanical Engineering student, I discovered my passion for software while working on research in system automation. At the time, I was primarily working with Python and C, both of which were new to me. I quickly realized that I enjoyed programming more than I had expected, which motivated me to transfer to Computer Engineering. Since then, I’ve learned a great deal about different types of software, both inside and outside the classroom.   
+
+Initially, I was particularly interested in system automation because it was both practical and rewarding. During this time, I also became familiar with markup languages like HTML and CSS for creating dashboards. Although I enjoyed working on dashboards, I realized that web design wasn’t my area of interest. My focus gradually shifted toward Machine Learning, particularly TinyML, which I find fascinating. I’m not only curious about different machine learning algorithms but also about optimization techniques that allow models to be deployed on embedded systems.   
 
 <br><h4>Present</h4>   
 <img width="200px" class="rounded float-start pe-4" src="../img/essayPortafolio/presentIcon.png">
-Recently I have been workin on a personal project where I developed an iOS app for apple products where I had to learn a high-level general-purpose language that I was unfamiliar with which is Swift. It was very fun to do trial and run while making a project and I believe I got to learn so much from doint it. I don't consider myself an expert in the language by any means, but I belive I can work my way through making an app. That is somehting I love about software engineering, there are many open-source courses and tools that you can use for learning any programming language.
+Recently, I’ve been working on a personal project where I developed an iOS app for Apple products. For this, I had to learn Swift, a high-level general-purpose programming language that I was unfamiliar with. The process of trial and error while building the app was incredibly rewarding, and I learned so much along the way. While I don’t consider myself an expert in Swift, I’m confident in my ability to navigate the language and develop functional apps. This experience reinforced one of the things I love most about software engineering: the abundance of open-source resources and tools available to learn any programming language.   
 
 <br><h4>Future</h4>   
 <img width="200px" class="rounded float-start pe-4" src="../img/essayPortafolio/futureIcon.png">
-For the future 
+Looking ahead, I’m eager to explore more programming languages that I’m not yet familiar with and apply them to practical projects. During the ICS 311 class, I hope to learn how to develop a fully functional web app and make it easy to update. My goal is to design it in a way that ensures future maintainability, so an outsider can easily understand the source code and make updates as needed. One of my long-term aspirations is to become proficient at quickly picking up new programming languages by simply reviewing their documentation.   
