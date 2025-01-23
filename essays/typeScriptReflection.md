@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Reflection on Typescript"
+title: "Typescript Debut Experience: A Coder’s Take on Learning Under Pressure"
 # All dates must be YYYY-MM-DD format!
 date: 2025-01-23
 published: true
@@ -12,11 +12,16 @@ labels:
   - Typescript
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/essayTypescript/typescript.jpg">
-
 So. What do you think about Typescript so far? If you’re a complete newbie, how does it compare to other programming languages that you know? If you have prior experience, did you learn new things from this module, perhaps with respect to ES6? Do you think Typescript is a good or bad programming language from a software engineering perspective?
 
 What about athletic software engineering? Did you find the practice WODs to be useful? What do you think about this style of learning? Is it stressful? Is it enjoyable? Do you think it will work for you?
 
-My first exposure to Javascript and Typescript was 1 week ago. I have learned a couple othe languages such as Python, C, and C++. During the javascript and typescript modules I leared that the syntax is very similar to C which makes it easy to write. I think Typescript compared to Javascript is a good langauge since it is easier to follow when declaring because you specify the types. We haven't had the chance to use Javascript to use for designing a website but i think it will be very useful to understand how it works.
+
+<img width="300px" class="rounded float-start pe-4" src="../img/essayTypescript/typescript.jpg">
+<h4>Javascript Newbie</h4>   
+My first exposure to JavaScript and TypeScript was just a week ago. I have experience with a few other programming languages, such as Python, C, and C++ so getting used to the basic logic of programming wasn't very challenging. During the [JavaScript](https://www.freecodecamp.org/) and [TypeScript](https://www.w3schools.com/typescript/index.php) modules, I learned that the syntax is very similar to C, which makes it relatively easy to write. I think TypeScript, compared to JavaScript, is a better language because it is easier to follow when declaring variables, as it allows you to specify types. Although we haven’t had the chance to use JavaScript for designing a website yet, I believe understanding how it works will be very useful.    
+
+<h4>Programming from an Athletic Approach</h4>   
+<img width="300px" class="rounded float-start pe-4" src="../img/essayTypescript/stressLady.png">
+Working under pressure has never been something I am good at. Personally, I work best when I have time to think and brainstorm ideas on how to solve a problem. I really enjoy tackling programming challenges, especially when learning a new language, as it helps me get familiar with the syntax. So far, I’ve had a good experience with the first few practice WODs since the problems have been relatively easy. However, I find that stressing about the time limit makes me less productive. I’m curious to see what future WODs will bring, but for now, I’m unsure whether this learning style will work for me.   
 
