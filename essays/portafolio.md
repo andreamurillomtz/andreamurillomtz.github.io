@@ -14,7 +14,7 @@ labels:
  that discusses your interests in software engineering and what kinds of skills and experiences you hope to develop in future.
 
 <h4>Past</h4>   
-<img width="300px" class="rounded float-start pe-4" src="../img/essayPortafolio/pastIcon.png">  
+<img width="200px" class="rounded float-start pe-4" src="../img/essayPortafolio/pastIcon.png">  
 Starting off as a Mechanical Engineering student, I discovered my passion for software while working on research in system automation. At the time, I was primarily working with Python and C, both of which were new to me. I quickly realized that I enjoyed programming more than I had expected, which motivated me to transfer to Computer Engineering. Since then, I’ve learned a great deal about different types of software, both inside and outside the classroom.   
 
 Initially, I was particularly interested in system automation because it was both practical and rewarding. During this time, I also became familiar with markup languages like HTML and CSS for creating dashboards. Although I enjoyed working on dashboards, I realized that web design wasn’t my area of interest. My focus gradually shifted toward Machine Learning, particularly TinyML, which I find fascinating. I’m not only curious about different machine learning algorithms but also about optimization techniques that allow models to be deployed on embedded systems.   
