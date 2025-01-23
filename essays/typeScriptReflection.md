@@ -16,10 +16,9 @@ So. What do you think about Typescript so far? If you’re a complete newbie, ho
 
 What about athletic software engineering? Did you find the practice WODs to be useful? What do you think about this style of learning? Is it stressful? Is it enjoyable? Do you think it will work for you?
 
-<h4>Javascript Newbie</h4>    
-<img width="250px" class="rounded float-start pe-4" src="../img/essayTypescript/typescript.jpg">  
+<h4>Javascript Newbie</h4>   
+<img width="300px" class="rounded float-start pe-4" src="../img/essayTypescript/typescript.jpg">  
 My first exposure to JavaScript and TypeScript was just a week ago. I have experience with a few other programming languages, such as Python, C, and C++ so getting used to the basic logic of programming wasn't very challenging. During the [JavaScript](https://www.freecodecamp.org/) and [TypeScript](https://www.w3schools.com/typescript/index.php) modules, I learned that the syntax is very similar to C, which makes it relatively easy to write. I think TypeScript, compared to JavaScript, is a better language because it is easier to follow when declaring variables, as it allows you to specify types. Although we haven’t had the chance to use JavaScript for designing a website yet, I believe understanding how it works will be very useful.    
-
 
 <h4>Programming from an Athletic Approach</h4>   
 <img width="200px" class="rounded float-start pe-4" src="../img/essayTypescript/stressLady.png">
