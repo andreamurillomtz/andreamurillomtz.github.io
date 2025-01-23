@@ -28,5 +28,4 @@ Looking ahead, I’m eager to explore more programming languages that I’m not 
 <br>
 <br>
 <br>
-<br>
 *Resources: ChatGPT for grammar checking.*
