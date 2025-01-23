@@ -10,7 +10,7 @@ labels:
   - System Automation
   - Microcontroller
   - Serial Communication
-summary: "nck"
+summary: "The Nanosystems Lab focuses on microscale and nanoscale devices and structures. My projects primarily involved system automation."
 ---
 
 <h3>Thermal Measurement System Automation</h3>   
