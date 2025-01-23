@@ -27,8 +27,8 @@ Utilizes two integrators (accumulators), with its output synchronized to a reset
 <ins>Free-running ΔΣ Modulation ADC: </ins>   
 Utilizes a cascade-integrator comb (CIC) filter, consisting of two integrator parts (accumulators) and two comb parts (differentiators). The integrators’ output is passed through a comb filter, where the output is calculated as the difference between the delayed and current values.
 
-Test Waveforms:
-<img width="600px" src="../img/tinyTapeout/DF_both_waveform.png" class="img-thumbnail" >
+**Test Waveforms:**<br>
+<img width="1000px" src="../img/tinyTapeout/DF_both_waveform.png" class="img-thumbnail" >
 
 **Final Design**   
 Cells: 772 (excluding decoupling capacitors and filler cells)   
