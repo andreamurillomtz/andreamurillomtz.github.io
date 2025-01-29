@@ -1,4 +1,24 @@
-// Smart Questions Essay
+---
+layout: essay
+type: essay
+title: "How to get a hackers attention"
+# All dates must be YYYY-MM-DD format!
+date: 2025-01-30
+published: true
+labels:
+  - Smart Questions
+  - Stupid Questions
+  - StackOverflow
+  - Answers
+---
+
+<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
+
+Now a days technology is everything. But technology could not exist without software. Now a days there is a vast amount of open-source resources available to use to learn programming. Although there are thousands of programming languages in existence there are always people out there that have had a lot of experience with programming. Same as learning tools there are forums and websites where experirences developers and hackers volunteer their time to help fix peoples issues. But how to they pick which question to answer where there are thousands of them? That's where Smart and Stupid questions come to play.
+
+
+## Conclusion
+Software can be very tricky and you may come to a point where you get code errors that after a long time of researching and trying to figure out a solution you can't manage to find one. Eric Raymond brings a good point that I hadn't thought about until now. How can I get help from professionals and structuring my questions such that they are easy to answer and not stupid. After looking at some qeustions in [Stack Overflow](https://stackoverflow.com) I have realized how thoughout some questions asked in the forum are and they can serve as a template for when I need to ask a SMART question. 
 
 Write a technical essay that discusses why smart questions are important for smart software engineers, how the chosen questions fulfill (or not) the precepts for smart questions, how the responses reflect the smartness (or lack thereof), and the insights you gained as a result of this experience.
 
@@ -22,6 +42,7 @@ Clear and specific – It includes detailed information such as error messages, 
 Well-structured – Uses proper grammar and formatting, making it easy to understand.
 Shows respect for the respondent’s time – Avoids excessive detail but provides all necessary context.
 Asked in the right place – Posted on relevant forums, mailing lists, or communities.
+
 Characteristics of a Stupid Question:
 Vague or ambiguous – Lacks necessary details, making it hard to understand what the problem is.
 Easily searchable – The answer could be found with a quick Google search or by reading the documentation.
