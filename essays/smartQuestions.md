@@ -12,7 +12,7 @@ labels:
   - Answers
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/essaySmartQuestions/questionMeme.jpeg">
+<img width="300px" class="rounded center pe-4" src="../img/essaySmartQuestions/questionMeme.jpeg"> <br>
 
 Nowadays, technology is everything. But technology could not exist without software. Today, there is a vast amount of open-source resources available to help people learn programming. Although thousands of programming languages exist, there are always experienced programmers willing to share their knowledge. In addition to learning tools, there are forums and websites where experienced developers and hackers volunteer their time to help solve people's issues. But how do they choose which questions to answer when there are thousands of them? That’s where smart and stupid questions come into play.  
 
