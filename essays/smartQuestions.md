@@ -16,6 +16,10 @@ labels:
 
 Now a days technology is everything. But technology could not exist without software. Now a days there is a vast amount of open-source resources available to use to learn programming. Although there are thousands of programming languages in existence there are always people out there that have had a lot of experience with programming. Same as learning tools there are forums and websites where experirences developers and hackers volunteer their time to help fix peoples issues. But how to they pick which question to answer where there are thousands of them? That's where Smart and Stupid questions come to play.
 
+According to Eric Raymond, smart questions are those that are well-researched, clear, and show that they have put in the effort to solve the problem before asking. An important thing is that you deisplay the fact that you have done things first and have learned something from it. Now lets delve deep into stackflow and look for a SMART question. 
+
+
+
 
 ## Conclusion
 Software can be very tricky and you may come to a point where you get code errors that after a long time of researching and trying to figure out a solution you can't manage to find one. Eric Raymond brings a good point that I hadn't thought about until now. How can I get help from professionals and structuring my questions such that they are easy to answer and not stupid. After looking at some qeustions in [Stack Overflow](https://stackoverflow.com) I have realized how thoughout some questions asked in the forum are and they can serve as a template for when I need to ask a SMART question. 
