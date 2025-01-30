@@ -12,11 +12,11 @@ labels:
   - Answers
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/EssaySmartQuestions/questionMeme.jpeg">
+<img width="300px" class="rounded float-start pe-4" src="../img/essaySmartQuestions/questionMeme.jpeg">
 
 Nowadays, technology is everything. But technology could not exist without software. Today, there is a vast amount of open-source resources available to help people learn programming. Although thousands of programming languages exist, there are always experienced programmers willing to share their knowledge. In addition to learning tools, there are forums and websites where experienced developers and hackers volunteer their time to help solve people's issues. But how do they choose which questions to answer when there are thousands of them? That’s where smart and stupid questions come into play.  
 
-<img width="300px" class="rounded float-start pe-4" src="../img/EssaySmartQuestions/stupidQuestionMeme.jpeg">
+<img width="300px" class="rounded float-start pe-4" src="../img/essaySmartQuestions/stupidQuestionMeme.jpeg">
 
 According to Eric Raymond, stupid questions are vague, show no effort, and are easily searchable. It is interesting to browse Stack Overflow not to find an answer, but to analyze the types of questions being asked. I realized that many questions are well-structured, in-depth, and demonstrate that the asker has put in effort to solve their own problem before seeking help. However, I was able to find an example of a stupid question on the platform:  
 
@@ -64,7 +64,7 @@ On the other hand, smart questions are well-researched, clear, and demonstrate t
 
 In this question, the asker clearly explains their problem and provides detailed context about what they are trying to accomplish. They also show the effort they have put into solving the issue by listing the solutions they have attempted and why those solutions did not work. This is an excellent example of how to ask a well-structured question. The answers provided are clear, efficient, and easy to follow, showing that well-formed questions receive thoughtful responses.  
 
-<img width="300px" class="rounded float-start pe-4" src="../img/EssaySmartQuestions/question2Meme.jpg">
+<img width="300px" class="rounded float-start pe-4" src="../img/essaySmartQuestions/question2Meme.jpg">
 
 ## **Conclusion**  
 Software development can be tricky, and you may encounter issues that, despite extensive research and troubleshooting, you can't solve. Eric Raymond makes a compelling point that I hadn't considered before: *How can I structure my questions in a way that encourages experts to help me?*
