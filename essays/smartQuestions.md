@@ -72,3 +72,5 @@ Software development can be tricky, and you may encounter issues that, despite e
 After analyzing various questions on [Stack Overflow](https://stackoverflow.com), I realized how thorough and well-structured some questions are. These can serve as templates for when I need to ask a **smart question** myself.  
 
 In short, **smart questions** are well-thought-out and encourage helpful responses, while **stupid questions** waste everyone's time.  
+
+AI used for checking spelling and nice formatting
