@@ -18,9 +18,9 @@ labels:
 
 The answer to this question depends on who you ask. Personally, I would say yes. I consider myself someone who loves to have everything neat and organized, especially when it comes to coding. I often find myself spending a lot of time not only fixing syntax but also ensuring my code is readable. This applies not just to code that I know others will read but even to small exercises like practice WODs. Why? I'm not entirely sure, but I realize that I enjoy making my code look "pretty." This is why I really appreciate using tools like [ESLint](https://eslint.org) and [VSCode](https://code.visualstudio.com).  
 
-## **First-Time Experience**  
+### **First-Time Experience**  
 
-### **VSCode**  
+#### **VSCode**  
 <div style="display: flex; align-items: center;">
     <img width="100px" class="rounded pe-4" src="../img/essayCodingStandards/VSCodeLogo.png" style="margin-right: 10px;">
     <div>
@@ -40,7 +40,7 @@ The answer to this question depends on who you ask. Personally, I would say yes.
 
 <br>
 
-#### **Conclusion**  
+### **Conclusion**  
 In the end, coding standards are beneficial to follow. While they can be frustrating at first, once you become used to them, they make development much easier and more efficient. Using tools like VSCode and ESLint can improve coding workflow a lot, making code more readable, maintainable, and professional. Clean, well-structured code is not only satisfying to look at but also essential for collaboration and scalability. By following coding standards, developers can ensure their work is clear and efficient for both themselves and others in the long run.   
 
 <div class="text-center p-4">
