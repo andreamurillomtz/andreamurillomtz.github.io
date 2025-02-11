@@ -34,7 +34,7 @@ The answer to this question depends on who you ask. Personally, I would say yes.
 <div style="display: flex; align-items: center;">
     <img width="100px" class="rounded pe-4" src="../img/essayCodingStandards/ESLintLogo.png" style="margin-right: 10px;">
     <div>
-        I was first introduced to ESLint during my sophomore year while taking EE 205. Initially, I hated it because I kept having errors that I didn't think mattered much. For example: "*variable defined but never used,*" "*no-multiple-empty-lines,*" and so on. However, as I got used to following proper coding standards, I started making fewer mistakes. One of my favorite features is the command: `"npm run lint-fix"`. It’s amazing how my code can be formatted instantly without requiring manual adjustments. I personally enjoy using ESLint because it keeps my code clean and consistent effortlessly.  
+        I was first introduced to ESLint during my sophomore year while taking EE 205. Initially, I hated it because I kept having errors that I didn't think mattered much. For example: "variable defined but never used," "no-multiple-empty-lines," and so on. However, as I got used to following proper coding standards, I started making fewer mistakes. One of my favorite features is the command: `"npm run lint-fix"`. It’s amazing how my code can be formatted instantly without requiring manual adjustments. I personally enjoy using ESLint because it keeps my code clean and consistent effortlessly.  
     </div>
 </div>
 
