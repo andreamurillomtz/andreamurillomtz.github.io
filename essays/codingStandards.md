@@ -30,7 +30,7 @@ The answer to this question depends on who you ask. Personally, I would say yes.
 
 <br>
 
-### **ESLint**  
+#### **ESLint**  
 <div style="display: flex; align-items: center;">
     <img width="100px" class="rounded pe-4" src="../img/essayCodingStandards/ESLintLogo.png" style="margin-right: 10px;">
     <div>
@@ -38,8 +38,9 @@ The answer to this question depends on who you ask. Personally, I would say yes.
     </div>
 </div>
 
+<br>
 
-## **Conclusion**  
+#### **Conclusion**  
 In the end, coding standards are beneficial to follow. While they can be frustrating at first, once you become used to them, they make development much easier and more efficient. Using tools like VSCode and ESLint can improve coding workflow a lot, making code more readable, maintainable, and professional. Clean, well-structured code is not only satisfying to look at but also essential for collaboration and scalability. By following coding standards, developers can ensure their work is clear and efficient for both themselves and others in the long run.   
 
 <div class="text-center p-4">
