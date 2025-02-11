@@ -47,4 +47,4 @@ In the end, coding standards are beneficial to follow. While they can be frustra
 </div>
 <br>  
 
-AI used for checking spelling and nice formatting
+*AI used for checking spelling and nice formatting*
