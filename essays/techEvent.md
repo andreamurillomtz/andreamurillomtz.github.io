@@ -13,11 +13,12 @@ labels:
 ---
 ### What is PACE?  
 <div style="display: flex; align-items: center;">
-    <img width="100px" class="rounded pe-4" src="../img/essayTechMindsMeet/PACE.png" style="margin-right: 10px;">
+    <img width="150px" class="rounded pe-4" src="../img/essayTechMindsMeet/PACE.png" style="margin-right: 10px;">
     <div>
         PACE stands for the Pacific Asian Center for Entrepreneurship and was established at the Shidler College of Business. It provides numerous opportunities for entrepreneurship and innovation to students across all 10 campuses of the University of Hawai‘i System. PACE offers various programs that provide mentorship, training, and resources designed to foster entrepreneurial thinking across disciplines. These programs aim to inspire entrepreneurs to transform their ideas from conceptualization to commercialization.    
     </div>
 </div>  
+<br>
 
 ### Tech Minds Meet Event  
 When I first arrived at the event, I noticed many tables with experts ranging from consultants to tech entrepreneurs and engineering managers. At first I was scared of aproaching experts and starting a conversation, but as the event went by I got more confortable with talking to them which made me realize all they wanaa do is help us. I loved hearing about their experiences and how they led them to where they are today. The conversations were incredibly insightful, offering valuable advice on potential career paths and current trends in technology.  
