@@ -12,8 +12,7 @@ labels:
   - PACE
 ---
 ### What is PACE?  
-<img width="500px" class="rounded center pe-4" src="../img/essayTechMindsMeet/PACE.png">  
-
+<img width="100px" class="rounded center pe-4" src="../img/essayTechMindsMeet/PACE.png"><br>
 PACE stands for the Pacific Asian Center for Entrepreneurship and was established at the Shidler College of Business. It provides numerous opportunities for entrepreneurship and innovation to students across all 10 campuses of the University of Hawai‘i System. PACE offers various programs that provide mentorship, training, and resources designed to foster entrepreneurial thinking across disciplines. These programs aim to inspire entrepreneurs to transform their ideas from conceptualization to commercialization.  
 
 ### Tech Minds Meet Event  
@@ -22,7 +21,7 @@ When I arrived at the event, I noticed many tables with experts ranging from con
 I especially enjoyed speaking with professionals who had an entrepreneurial background and had been exposed to the startup ecosystem, which is an area I’m particularly interested in. Throughout the event, I only had the opportunity to talk to two people, as our conversations were long and in-depth with very insightful knowledge.   
 
 ### People  
-<img width="500px" class="rounded center pe-4" src="../img/essayTechMindsMeet/selfie.jpg">
+<img width="100px" class="rounded center pe-4" src="../img/essayTechMindsMeet/selfie.jpg">
 One of the most meaningful conversations I had was with Ryan Leary, a Senior Engineering Manager at Meta in the Reality Labs. We discussed various topics, including what his day-to-day work looks like and how he joined Meta. He explained that his primary role is overseeing other engineers and stepping in when needed. As a manager, he doesn't work directly on projects but instead gets to engage with multiple projects at a high level.  
 
 Another interesting insight he shared was that Mark Zuckerberg is deeply invested in the development of reality glasses. One valuable piece of advice I took from him was to always seize any available opportunity because you never know when it will come again.  
