@@ -41,14 +41,14 @@ According to Samantha Zhang in a [Medium](https://medium.com/5000-things/learnin
 
 ## The Payoff of Using UI Frameworks
 
-### 1. **Speed & Efficiency**
+1. **Speed & Efficiency**
 Instead of writing CSS from scratch, you can use pre-styled components. A nice navigation bar with no need to enter an extensive *style.css* full of different fomatting.
 
-### 2. **Teamwork Consistency**
+2. **Teamwork Consistency**
 When working as a team, UI frameworks ensure that everyone’s styling is the same. NO MORE DEBATING ON STYLE!
 
 ## My Experience with Bootstrap 5
-<img width="300px" class="rounded float-start pe-4" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png">  
+<img width="100px" class="rounded float-start pe-4" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png">  
 I've used both Bootstrap 5 and it is fantastic for quick prototyping. The grid system is intuitive, and the documentation is very solid. Everytime I run into an error, forums and their documentation has been able to solve them. I do think it is a little more time consuming that writing your own style but when it comes to designing the navigation bar, footer, columns, it works wonders.   
 
 If you like structure and efficiency, Bootstrap is a solid choice. I have personally never used any other frameworks, but I would love to try and see their differences.
