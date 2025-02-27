@@ -13,9 +13,7 @@ labels:
 ---
 
 <h3>Frameworks To The Help</h3>   
-<img width="300px" class="rounded float-start pe-4" src="../img/essayTypescript/typescript.jpg">  
-
-
+<img width="300px" class="rounded float-start pe-4" src="../img/essayUIFramework/UIFrameworks.png">  
 
 UI Frameworks are not simple. In fact, they can be almost as complicated to learn as a new programming language. Given that, why bother to use something like Bootstrap 5? What does one get in return for the investment of time and frustration? Why not just use raw HTML and CSS? Are the software engineering benefits of UI frameworks?
 
@@ -50,7 +48,7 @@ Instead of writing CSS from scratch, you can use pre-styled components. A nice n
 When working as a team, UI frameworks ensure that everyone’s styling is the same. NO MORE DEBATING ON STYLE!
 
 ## My Experience with Bootstrap 5
-
+<img width="300px" class="rounded float-start pe-4" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png">  
 I've used both Bootstrap 5 and it is fantastic for quick prototyping. The grid system is intuitive, and the documentation is very solid. Everytime I run into an error, forums and their documentation has been able to solve them. I do think it is a little more time consuming that writing your own style but when it comes to designing the navigation bar, footer, columns, it works wonders.   
 
 If you like structure and efficiency, Bootstrap is a solid choice. I have personally never used any other frameworks, but I would love to try and see their differences.
@@ -72,8 +70,7 @@ Here's an example of a simple web page built with Bootstrap 5:
 </html>
 ```
 
-<img width="150px" class="rounded pe-4" src="../img/essayUIFramework.Example.png" 
-
+<img width="150px" class="rounded pe-4" src="../img/essayUIFramework/example.png"
 Now, imagine writing all that styling manually. It would take **so long**!
 
 ## Conclusion
