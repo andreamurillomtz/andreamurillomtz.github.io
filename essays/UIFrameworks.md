@@ -70,7 +70,7 @@ Here's an example of a simple web page built with Bootstrap 5:
 </html>
 ```
 
-<img width="150px" class="rounded pe-4" src="../img/essayUIFramework/ex.png"
+<img width="150px" class="rounded pe-4" src="../img/essayUIFramework/example.png"
 Now, imagine writing all that styling manually. It would take **so long**!
 
 ## Conclusion
