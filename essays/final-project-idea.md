@@ -9,7 +9,7 @@ labels:
 ---
 
 ### **Proposers**  
-**Andrea Murillo, Milan Bukovics, Landon Kihe, Catalina Barnes**  
+Andrea Murillo, Milan Bukovics, Landon Kihe, Catalina Barnes   
 
 ---
 
