@@ -8,7 +8,7 @@ labels:
   - Nextjs
 ---
 
-## **Proposers**  
+### **Proposers**  
 **Andrea Murillo, Milan Bukovics, Landon Kihe, Catalina Barnes**  
 
 ---
@@ -48,7 +48,7 @@ A dedicated website where students can:
 
 ## **Use Case Scenarios**  
 
-### **1. Uploading Notes**  
+#### **1. Uploading Notes**  
 1. Student visits the landing page.  
 2. Logs in or creates an account.  
 3. Clicks *Upload Notes* on the navigation bar.  
@@ -64,7 +64,7 @@ A dedicated website where students can:
 
 ---
 
-### **2. Editing Uploaded Notes**  
+#### **2. Editing Uploaded Notes**  
 1. Student logs into their account.  
 2. If they have uploaded notes, an *Edit Notes* tab appears.  
 3. Student clicks *Edit Notes* and sees their uploaded notes.  
@@ -80,7 +80,7 @@ A dedicated website where students can:
 
 ---
 
-### **3. Searching for Notes**  
+#### **3. Searching for Notes**  
 1. Student logs in or creates an account.  
 2. Clicks *View Notes* on the navigation bar.  
 3. Uses the *search bar* and *filters* to find notes for a specific class.  
