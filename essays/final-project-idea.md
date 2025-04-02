@@ -8,9 +8,7 @@ labels:
   - Nextjs
 ---
 
-# NoteHub Mānoa Proposal
-
-### **Proposers**  
+## **Proposers**  
 **Andrea Murillo, Milan Bukovics, Landon Kihe, Catalina Barnes**  
 
 ---
@@ -18,7 +16,7 @@ labels:
 ## **Overview**  
 At UH Mānoa, students rush to take notes, struggling to keep up with lectures. Alexa took great notes, but her friend Noah often missed key details. Before an exam, he searched Laulima and group chats, only to find scattered, incomplete notes.  
 
-*"What if there was one place where UH students could share notes for every class?"* Tokyo wondered.  
+*"What if there was one place where UH students could share notes for every class?"*  Tokyo wondered.  
 
 That idea became **NoteHub Mānoa**, a website where students could:  
 - **Upload and access notes** for any UH course.  
@@ -53,7 +51,7 @@ A dedicated website where students can:
 ### **1. Uploading Notes**  
 1. Student visits the landing page.  
 2. Logs in or creates an account.  
-3. Clicks **Upload Notes** on the navigation bar.  
+3. Clicks *Upload Notes* on the navigation bar.  
 4. Fills in:  
    - **Owner email** (defaults to anonymous)  
    - **Title**  
@@ -68,8 +66,8 @@ A dedicated website where students can:
 
 ### **2. Editing Uploaded Notes**  
 1. Student logs into their account.  
-2. If they have uploaded notes, an **Edit Notes** tab appears.  
-3. Student clicks **Edit Notes** and sees their uploaded notes.  
+2. If they have uploaded notes, an *Edit Notes* tab appears.  
+3. Student clicks *Edit Notes* and sees their uploaded notes.  
 4. They can modify:  
    - **Title**  
    - **Department → Class**  
@@ -84,8 +82,8 @@ A dedicated website where students can:
 
 ### **3. Searching for Notes**  
 1. Student logs in or creates an account.  
-2. Clicks **View Notes** on the navigation bar.  
-3. Uses the **search bar and filters** to find notes for a specific class.  
+2. Clicks *View Notes* on the navigation bar.  
+3. Uses the *search bar* and *filters* to find notes for a specific class.  
 4. Available notes are displayed with:  
    - **Owner/Author**  
    - **Document link**  
@@ -99,16 +97,11 @@ A dedicated website where students can:
 ## **Beyond the Basics**  
 
 ### **Extra Features**  
-- 💬 **Comment section** – Users can leave feedback or discuss notes.  
-- ⭐ **Rating system** – Students rate notes from **1 to 5 stars** based on quality.  
+-  **Comment section** – Users can leave feedback or discuss notes.  
+-  **Rating system** – Students rate notes from **1 to 5 stars** based on quality.  
 
-### **Potential Gamification Idea (?????)**  
-- Users earn **points by uploading notes**.  
-- Points can be **spent to unlock other notes**.  
-- **Higher-rated notes cost more points** to unlock.  
-- Encourages **better note-taking** and active participation.  
-
----
-
-### **Conclusion**  
-The more high-quality notes a student shares, the more access they have to others’ notes. This **incentivizes** students to contribute **clear, useful, and accurate** notes, fostering a **collaborative learning environment** at UH Mānoa.  
+### **Potential Gamification Idea**  
+- Users earn points by uploading notes.  
+- Points can be spent to unlock other notes.  
+- Higher-rated notes cost more points to unlock.  
+- Encourages better note-taking and active participation.  
