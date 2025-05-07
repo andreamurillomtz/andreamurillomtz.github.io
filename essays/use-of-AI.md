@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "My Personal Journey"
+title: "My Personal Journey with AI"
 published: true
 date: 2025-05-06
 labels:
