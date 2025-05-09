@@ -21,7 +21,7 @@ As I conclude my journey through **ICS 314: Software Engineering**, I realize th
 ---
 
 ## Agile Project Management and Issue-Driven Development
-<img src="https://images.ctfassets.net/vtn4rfaw6n2j/7MpGhY3NgmNo3IG3CooevL/4dd9d3f36dafb18671a4b043b542b12b/agile.png" alt="Agile Methodology Diagram" style="width: 350px; margin-left: 20px;" />
+<img src="https://images.ctfassets.net/vtn4rfaw6n2j/7MpGhY3NgmNo3IG3CooevL/4dd9d3f36dafb18671a4b043b542b12b/agile.png" alt="Agile Methodology Diagram" style="width: 350px; margin-left: 20px;" />     
 **Agile Project Management** is an iterative approach to software development that emphasizes flexibility, collaboration, and customer feedback. In ICS 314, we delved into a specific methodology within Agile knwn as **Issue-Driven Project Management (IDPM)**. This approach structures development around discrete, trackable issues.
 
 Through the Agile Project Management module, we utilized GitHub Issues to manage tasks. Each issue represented a specific feature or bug fix, promoting clarity and accountability. This method facilitated efficient team coordination and ensured that development remained aligned with project goals.
