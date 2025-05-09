@@ -28,7 +28,7 @@ Through the Agile Project Management module, we utilized GitHub Issues to manage
 
 Beyond web applications, IDPM can be instrumental in managing complex projects such as mobile app development or system software engineering. By breaking down tasks into manageable issues, teams can maintain focus, adapt to changes, and consistently deliver quality work.
 
-![Agile Methodology Diagram](https://www.dreamstime.com/agile-methodology-approach-effective-project-management-outline-diagram-labeled-educational-process-steps-explanation-image259378412)
+![Agile Methodology Diagram](https://www.google.com/url?sa=i&url=https%3A%2F%2Fasana.com%2Fresources%2Fagile-methodology&psig=AOvVaw2o_5rqH70KhoADWC8cUaH4&ust=1746855119816000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCN1sjUlY0DFQAAAAAdAAAAABAE)
 
 ---
 
@@ -40,7 +40,7 @@ Through hands-on experience, we recognized the importance of version control in 
 
 This practice is essential not only in web development but also in areas like embedded systems, which I am particularly interested in. Effective configuration management ensures that teams can collaborate efficiently, revert to previous states when necessary, and maintain a history of changes for future reference.
 
-![GitHub Commit History](https://docs.github.com/assets/images/help/desktop/commit-history.png)
+![GitHub Commit History](https://miro.medium.com/v2/resize:fit:763/1*XZFS9IYIJSccsYkOtJAcAw.png)
 
 ---
 
@@ -52,7 +52,7 @@ By implementing these patterns in our projects, we learned to create flexible an
 
 The knowledge of design patterns extends far beyond simple web development. In circuit design, for instance, structural patterns like **Factory** or **Singleton** can be translated into modular and reusable blocks in hardware description languages like Verilog or VHDL. Behavioral patterns such as **State** are directly applicable when designing finite state machines for digital logic, allowing for more maintainable architectures. Additionally, the **Observer** pattern can inform the design of signal monitoring blocks, where changes in one part of the circuit propagate controlled effects through others. By applying these software design patterns to hardware contexts, I’ve gained a deeper appreciation for abstraction and scalability in both domains.
 
-![Design Patterns Diagram](https://refactoring.guru/images/patterns/diagrams/patterns.png)
+![Design Patterns Diagram](https://images.ctfassets.net/crb83veve8xb/1tQA6hxhR3ruYRsI858k05/53f39fa3dc605f11c67cad3f3fad5f29/Portada_Blog__1_.png)
 
 ---
 
