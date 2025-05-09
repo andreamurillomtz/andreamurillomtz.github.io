@@ -9,8 +9,6 @@ labels:
   - Education
 ---
 
-# Reflecting on the Use of AI in ICS 314: A Personal Journey
-
 ## I. Introduction
 
 Artificial Intelligence is transforming education in incredible ways. In software engineering it is clearly evident. As an electrical engineering student exploring areas of software, systems, and design, I’ve been exposed to how AI tools are shifting the way we learn, solve problems, and build software. In ICS 314, I experimented with a variety of AI-powered tools including ChatGPT and GitHub Copilot. These tools have served as companions during long debugging sessions, silent tutors for complex concepts, and helpful aides for documentation and clarity. In this techinal essay, I reflect on my experiences integrating AI into various elements of the course and how it has impacted my learning, problem-solving skills, and future as a software engineer.
@@ -104,3 +102,8 @@ As AI tools evolve, I expect them to become more tightly integrated with IDEs, c
 ## VIII. Conclusion
 
 AI has been a transformative part of my learning journey in ICS 314. It made me more efficient, curious, and confident, but only when used thoughtfully. I believe AI belongs in the future of software engineering education, not as a shortcut, but as an accelerator for deeper understanding. My recommendation? Use AI often, but never pass up the chance to think for yourself first.
+<br>
+<br>
+<br>
+<br>
+*Resources: ChatGPT for grammar checking.*
