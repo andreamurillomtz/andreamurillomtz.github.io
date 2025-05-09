@@ -1,15 +1,15 @@
 ---
 layout: essay
 type: essay
-title: "Shy About Experts in The Field?"
+title: "Beyond the Browser"
 # All dates must be YYYY-MM-DD format!
-date: 2025-02-17
+date: 2025-05-08
 published: true
 labels:
   - Software Engineering
-  - Meta
-  - Tech Minds Meet
-  - PACE
+  - Agile Project Management
+  - Configuration Management
+  - Design Patterns
 ---
 As I conclude my journey through ICS 314: Software Engineering, I say that this course was more than simple web application development. It gave me a experience the foundational software engineering principles. While building web applications was a significant component of the class, the true learning came mostly on understanding and applying core concepts such as **Agile Project Management**, **Configuration Management**, and **Design Patterns**. These principles are not only applied to web development but also across various software engineering areas.
 
