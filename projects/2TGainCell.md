@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/tinyML/ICDesign.jpg
+image: img/ICDesign.jpg
 title: "Design and Implementation of a 2T Gain Cell for an 8x8 Dynamic Memory Array"
 date: "Jan. 2025 – May 2025"
 published: true

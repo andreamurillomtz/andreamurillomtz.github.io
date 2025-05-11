@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/notehub.png
+image: img/notehub.png
 title: "Notehub Manoa"
 date: Jan. 2025 – May 2025
 published: true
