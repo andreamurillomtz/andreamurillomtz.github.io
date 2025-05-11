@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/ICDesign.jpg
-title: "Design and Implementation of a 2T Gain Cell for an 8x8 Dynamic Memory Array"
+title: "Design and Implementation of a 2T Gain Cell"
 date: "Jan. 2025 – May 2025"
 published: true
 labels:
