@@ -1,0 +1,22 @@
+---
+layout: project
+type: project
+image: img/stanford.png
+title: "2T Gain-Cell Memory Buffer- TSMC 40nm"
+date: "June 2025 – Oct. 2025"
+published: true
+labels:
+  - Circuit Design
+  - Cadence
+  - Padring
+  - Memory Readout
+summary: "The Nanosystems Lab focuses on microscale and nanoscale devices and structures. My projects primarily involved system automation."
+---
+
+As part of the Nanoelectronics & Nanotechnology Group, contributed to the design of a memory buffer circuit for an industry partner, focusing on readout circuitry looking at reliability and area efficiency.
+
+Additionally, contributed to testing digital circuits, checking the full design flow from RTL to layout to ensure functionality and seamless integration.
+
+Verified pad functionality and pin orientation for full-chip integration, supporting a padring with over 230 pins.
+
+Gained hands-on experience in circuit design, reliability analysis, and physical implementation, bridging academic research with real-world industry applications.
