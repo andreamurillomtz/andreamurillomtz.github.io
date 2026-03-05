@@ -37,8 +37,17 @@
   ],
   "education": [
     {
+      "institution": "Stanford University",
+      "area": "Electrical Engineering",
+      "studyType": "Incoming PhD.",
+      "startDate": "2026-09-10",
+      "endDate": "...",
+      "courses": [
+      ]
+    },
+    {
       "institution": "University of Hawaii at Manoa, Honolulu, HI",
-      "area": "Engineering (expected Spring, 2026)",
+      "area": "Electrical Engineering (expected Spring, 2026)",
       "studyType": "B.S.",
       "startDate": "2022-08-19",
       "endDate": "Present",
